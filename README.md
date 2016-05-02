@@ -1,3 +1,3 @@
 # hello-world
 
-Hi, I'm teaching myself how to code. Brb. 
+I'm teaching myself how to code. Brb. 
